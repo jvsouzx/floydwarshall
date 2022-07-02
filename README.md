@@ -13,8 +13,8 @@ O código usa o CMake para compilar, caso não possua:
 - Linux: ``` sudo apt install cmake ```.
 - Windows: <a href= "https://cmake.org/install/"> Installing CMake</a>.
 <p> </p>
-<p> </p>
 Para compilar e executar o código:
+
 ```
 git clone https://github.com/jvsouzx/floydwarshall.git
 cmake -S src -B build
