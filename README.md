@@ -19,6 +19,7 @@ Para compilar e executar o código:
 
 ```
 git clone https://github.com/jvsouzx/floydwarshall.git
+cd floydwarshall
 cmake -S src -B build
 cmake --build build
 ./build/fw  
