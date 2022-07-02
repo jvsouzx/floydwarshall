@@ -6,7 +6,7 @@
 </div>
 <p> </p>
 <p> </p>
-Implementação Iterativa e Recursiva do algoritmo de Floyd-Warshall.
+Implementação iterativa e recursiva do algoritmo de Floyd-Warshall.
 
 ## Para Compilar
 O código usa o CMake para compilar, caso não possua: 
