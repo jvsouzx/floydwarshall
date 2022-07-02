@@ -12,6 +12,7 @@ Implementação iterativa e recursiva do algoritmo de Floyd-Warshall.
 O código usa o CMake para compilar, caso não possua: 
 - Linux: ``` sudo apt install cmake ```.
 - Windows: <a href= "https://cmake.org/install/"> Installing CMake</a>.
+Para compilar e executar o código:
 ```
 git clone https://github.com/jvsouzx/floydwarshall.git
 cmake -S src -B build
